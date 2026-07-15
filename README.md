@@ -131,53 +131,71 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Home Page
 
-> Add screenshot here
-
-```
-images/home-page.png
-```
+![Home Page](images/Home%20Page.png)
 
 ---
 
 ### 👤 Customer Login
 
-> Add screenshot here
-
-```
-images/customer-login.png
-```
+![Customer Login](images/Customer%20login.png)
 
 ---
 
-### 🛒 Customer Dashboard
+### 🔐 Admin Login
 
-> Add screenshot here
-
-```
-images/customer-dashboard.png
-```
+![Admin Login](images/admin%20login.png)
 
 ---
 
-### 🔑 Admin Dashboard
+### 🍔 Menu Page
 
-> Add screenshot here
-
-```
-images/admin-dashboard.png
-```
+![Menu Page](images/menu%20page.png)
 
 ---
 
-### 🍔 Food Menu
+### 🛒 Ordering Page
 
-> Add screenshot here
+![Ordering Page](images/Ordering%20Page.png)
 
-```
-images/menu.png
-```
+---
+
+### 📦 Order Receiving Page
+
+![Order Receiving Page](images/Order%20Receiving%20Page.png)
+
+---
+
+### 📍 Order Tracking Page
+
+![Order Tracking Page](images/Order%20tracking%20Page.png)
+
+---
+
+### ✅ Order Details Page
+
+![Order Details Page](images/Order%20Details%20page.png)
+
+---
+
+### 🎉 Order Placed Popup
+
+![Order Placed Popup](images/Order%20Placed%20pop%20up.png)
+
+---
+
+### ⭐ Rating Popup
+
+![Rating Popup](images/Rating%20Popup.png)
+
+---
+
+### 🛒 Cart Popup
+
+![Cart Popup](images/Cart%20Pop%20up.png)
 
 ---
 
